@@ -9,6 +9,9 @@
     "lint": "biome check",
     "format": "biome format --write"
   },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  },
   "dependencies": {
     "@clerk/nextjs": "^6.32.2",
     "@hookform/resolvers": "^5.2.2",
