@@ -49,3 +49,6 @@ NEXT_PUBLIC_APP_URL=your_app_url
 1- npm install
 2- npm run dev
 ```
+ 
+ 
+ 
